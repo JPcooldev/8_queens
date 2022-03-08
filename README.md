@@ -3,7 +3,7 @@
 We specify the size of chessboard and then try to create set for possible sollutions.
 That means deployment of queens at such way that no queen is located at square threatened by previous queens.
 
- Columns start from 0 on the left and then lines 0-7 
+I use different marking of chessboard. I am starting with numbers from the left top. Columns start from 0 on the left and then lines 0-7. 
  
  <img src="https://github.com/JPcooldev/8_queens/blob/main/chessboard.png" width="400">
  
