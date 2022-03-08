@@ -5,4 +5,4 @@ That means deployment of queens at such way that no queen is located at square t
 
 ## Method of deployment
 
- (/Users/jp/Desktop/chessboard.png "Text to show on mouseover")
+ (chessboard.png "Text to show on mouseover")
