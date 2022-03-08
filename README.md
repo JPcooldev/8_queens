@@ -5,7 +5,7 @@ That means deployment of queens at such way that no queen is located at square t
 
 I use different marking of chessboard. I am starting with numbers from the left top. Columns start from 0 on the left and then lines 0-7. 
  
- <img src="https://github.com/JPcooldev/8_queens/blob/main/chessboard.png" width="400">
+ <img src="https://github.com/JPcooldev/8_queens/blob/main/folder/chessboard.png" width="400">
  
  ## Showcase of deployment
  
@@ -14,4 +14,4 @@ Queen (red square) threatens whole column and line which she lies on, and also d
 Here we placed queen to the left corner. 
 Another queen can be placed to other column but cannot be placed on the same line or on the line bellow because this square is also threatened by the first queen.
 
- <img src="https://github.com/JPcooldev/8_queens/blob/main/chessboard2.png" width="400">
+ <img src="https://github.com/JPcooldev/8_queens/blob/main/folder/chessboard2.png" width="400">
